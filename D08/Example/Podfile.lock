@@ -1,0 +1,16 @@
+PODS:
+  - lmucassi2018 (0.1.0)
+
+DEPENDENCIES:
+  - lmucassi2018 (from `../`)
+
+EXTERNAL SOURCES:
+  lmucassi2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lmucassi2018: b853f9a35100f95c2088572c864927312a437a5a
+
+PODFILE CHECKSUM: 82c953aefb5b350d41d53d67d6af07b6c5539c7f
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'lmucassi2018_Example' do
+  pod 'lmucassi2018', :path => '../'
+
+  target 'lmucassi2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

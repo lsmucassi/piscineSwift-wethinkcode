@@ -1,0 +1,6 @@
+framework module lmucassi2018 {
+  umbrella header "lmucassi2018-umbrella.h"
+
+  export *
+  module * { export * }
+}
